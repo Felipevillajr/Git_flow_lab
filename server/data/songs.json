@@ -26,11 +26,26 @@
     "title": "Wait for the Moment",
     "artist": "Vulfpeck",
     "releaseDate": "2017"
-  }
+  },
   {
     "id": 5,
+    "title": "Reggae Shark",
+    "artist": "Reggae Shark",
+    "releaseDate": "2014",
+    "externalLink": "https://www.youtube.com/watch?v=A3ytTKZf344"
+  },
+  {
+    "id":6
+    "title": "White & Nerdy",
+    "artist": "Weird AI",
+    "releaseDate": "2006"
+  },
+  {
+    "id": 7,
     "title": "I know a song that gets on everybodies nerves",
     "artist": "Lil young yourMOM",
     "releaseDate": "2021"
   }
 ]
+
+
