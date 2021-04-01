@@ -29,6 +29,13 @@
   },
   {
     "id": 5,
+    "title": "Reggae Shark",
+    "artist": "Reggae Shark",
+    "releaseDate": "2014",
+    "externalLink": "https://www.youtube.com/watch?v=A3ytTKZf344"
+  },
+  {
+    "id":6
     "title": "White & Nerdy",
     "artist": "Weird AI",
     "releaseDate": "2006"
